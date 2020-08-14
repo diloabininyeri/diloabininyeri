@@ -11,7 +11,7 @@
  usr/bin/locals:~$ whereis "Dılo sürücü"
  istanbul/Turkey
 
-usr/bin/locals:~$ imap-email 
+usr/bin/locals:~$ less "${MAIL:-/var/mail/$USER}" 
  berxudar@gmail.com
  
 usr/bin/locals:~$ cat life.php
