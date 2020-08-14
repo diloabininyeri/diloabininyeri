@@ -1,6 +1,6 @@
 
 ### who am ı ?
-<img class="emoji" alt="man_technologist" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">Dılo Sürücü <br>
+<img class="emoji" alt="man_technologist" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">  Dılo Sürücü <br>
 
 ##### senior php developer <br>
 I have been working as a software developer for 10 years actively, I am originally a physics graduate, I worked as a fullstack frontend and backende developer in most projects, I mostly write php for the last 3-4 years
