@@ -19,13 +19,7 @@ usr/bin/locals:~$ cat life.php
 
 while($life) $code->run();
 
-usr/bin/locals:~$ 
-
-
- 
-
-
-
+usr/bin/locals:~$
  ```
 
 ###### About 
