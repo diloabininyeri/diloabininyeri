@@ -5,6 +5,7 @@
  usr/bin/locals:~$ whoami | grep "php"
  Dılo sürücü php senior developer
  ```
+ <br>
   
   <img class="emoji" alt="wave" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">
  <img class="emoji" alt="man_technologist" height="75" width="75" src="https://www.shareicon.net/data/256x256/2016/04/06/482251_php_512x512.png"> &nbsp;
