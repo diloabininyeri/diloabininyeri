@@ -9,7 +9,9 @@ I have been working as a software developer for 10 years actively, I am original
 [linkedin profile](https://www.linkedin.com/in/dilosurucu/) <br>
 [stackoverflow](https://stackoverflow.com/users/5582655/d%c4%b1lo-s%c3%bcr%c3%bcc%c3%bc)
 
-<br>
+
+
+
 ```
 let email='berxudar@gmail.com'; 
 let address='istanbul/Turkey'; 
