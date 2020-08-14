@@ -13,6 +13,16 @@
 
 usr/bin/locals:~$ imap-email 
  berxudar@gmail.com
+ 
+usr/bin/locals:~$ cat life.php
+<?php
+
+while($life) $code->run();
+
+usr/bin/locals:~$ 
+
+
+ 
 
 
 
@@ -26,16 +36,7 @@ I have been working as a software developer for 10 years actively, I am original
 [youtube channel](https://www.youtube.com/c/d%C4%B1los%C3%BCr%C3%BCc%C3%BC/videos)
 
 
-###### Email
 
->_berxudar@gmail.com_ <br>
-
-##### City
->_istanbul/Turkey_
 ```
-<?php
-
-while($life) $code->run();
-
 
 ```
