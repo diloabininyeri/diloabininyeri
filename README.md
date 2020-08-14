@@ -1,6 +1,8 @@
 
  ### who am ı ? <img class="emoji" alt="wave" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">
  <img class="emoji" alt="man_technologist" height="100" width="100" src="https://www.shareicon.net/data/256x256/2016/04/06/482251_php_512x512.png">  <br>
+  <img class="emoji" alt="man_technologist" height="100" width="100" src="https://i2.wp.com/executrainni.com/wp-content/uploads/2015/04/Linux.png?fit=256%2C256&ssl=1">
+ 
  ### Dılo Sürücü
 
 ##### senior php developer <br>
