@@ -1,6 +1,5 @@
 
 ### who am ı ?
-<hr>
 
 Dılo Sürücü <br>
 
