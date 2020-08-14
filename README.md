@@ -19,7 +19,9 @@ usr/bin/locals:~$ cat life.php
 
 while($life) $code->run();
 
-usr/bin/locals:~$
+usr/bin/locals:~$ git status
+fatal: not a git repository (or any of the parent directories): .git
+
  ```
 
 ###### About 
