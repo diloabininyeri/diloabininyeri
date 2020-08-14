@@ -1,4 +1,4 @@
-<img class="emoji" alt="man_technologist" height="20" width="20" src=" https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">
+<img class="emoji" alt="wave" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">
  ### who am ı ?
 <img class="emoji" alt="man_technologist" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">  Dılo Sürücü <br>
 
