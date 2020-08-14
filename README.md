@@ -9,7 +9,7 @@
  ### Dılo Sürücü
 
 ##### senior php developer <br>
-I have been working as a software developer for 10 years actively, I am originally a physics graduate, I worked as a fullstack frontend and backende developer in most projects, I mostly write php for the last 6-7 years
+I have been working as a software developer for 10 years actively, I am originally a physics graduate, I worked as a fullstack frontend and backende developer in most projects, I mostly write php for the last 6-7 years.Big data and artificial intelligence always attract my attention. I have been working on these two issues frequently lately
 
 [linkedin profile](https://www.linkedin.com/in/dilosurucu/) <br>
 [stackoverflow profile](https://stackoverflow.com/users/5582655/d%c4%b1lo-s%c3%bcr%c3%bcc%c3%bc) <br>
