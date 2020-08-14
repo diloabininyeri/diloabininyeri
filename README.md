@@ -10,5 +10,5 @@ I have been working as a software developer for 10 years actively, I am original
 [stackoverflow](https://stackoverflow.com/users/5582655/d%c4%b1lo-s%c3%bcr%c3%bcc%c3%bc)
 
 <br>
-email:berxudar@gmail.com <br>
-istanbul/Turkey <br>
+- email:berxudar@gmail.com <br>
+- istanbul/Turkey <br>
