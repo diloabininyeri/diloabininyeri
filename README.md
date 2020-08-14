@@ -8,7 +8,7 @@
  usr/bin/locals:~$ whoami | grep "php"
  Dılo sürücü php senior developer
 
- usr/bin/locals:~$ whichone "Dılo sürücü"
+ usr/bin/locals:~$ whereis "Dılo sürücü"
  istanbul/Turkey
 
 usr/bin/locals:~$ imap-email 
