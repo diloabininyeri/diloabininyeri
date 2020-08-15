@@ -25,13 +25,9 @@ fatal: not a git repository (or any of the parent directories): .git
  ```
 
 ###### About 
-```json
+```php
 
-  {
-   
-   "about":"I have been working as a software developer for 10 years actively, I am originally a physics graduate, I worked as a fullstack frontend and backende              developer in most projects, I mostly write php for the last 6-7 years.Big data and artificial intelligence always attract my attention. I have been                working on these two issues frequently lately"
-  
-  } 
+   $about='I have been working as a software developer for 10 years actively, I am originally a physics graduate, I worked as a fullstack frontend and backende             developer    in most projects, I mostly write php for the last 6-7 years.Big data and artificial intelligence always attract my attention. I have been             working on these two    issues frequently lately';
 
 ```
 I have been working as a software developer for 10 years actively, I am originally a physics graduate, I worked as a fullstack frontend and backende developer in most projects, I mostly write php for the last 6-7 years.Big data and artificial intelligence always attract my attention. I have been working on these two issues frequently lately
