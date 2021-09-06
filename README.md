@@ -1,5 +1,3 @@
-
-
  
  ```console
  
@@ -25,10 +23,8 @@ fatal: not a git repository (or any of the parent directories): .git
 usr/bin/locals:~$ vendor/bin/phpstan analyse  src --level 8
  1/1 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
 
-
-                                                                                                                        
- [OK] No errors                                                                                                         
-                                                                                                                        
+ [OK] No errors
+                     
 
  ```
 
@@ -45,4 +41,3 @@ I have been working as a software developer for 10 years actively, I am original
 ```
 
 ```
-![](https://user-images.githubusercontent.com/438920/84861219-66036b00-b025-11ea-956b-0b5e009e0d78.gif)
