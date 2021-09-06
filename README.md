@@ -38,7 +38,7 @@ I have been working as a software developer for 10 years actively, I am original
 
 <!--- ![](https://user-images.githubusercontent.com/438920/84861219-66036b00-b025-11ea-956b-0b5e009e0d78.gif) -->
 
-# Quick sort & Monkey
+## Quick sort & Monkey
 
 <div style="width:100%;display:flex;place-content: center;flex-direction: column">
 <img src="https://www.tutorialspoint.com/data_structures_algorithms/images/quick_sort_partition_animation.gif" alt=""/>
