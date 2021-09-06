@@ -1,4 +1,4 @@
- ![](https://wallpapercave.com/wp/wp5598941.jpg)
+ ![](https://images.immediate.co.uk/production/volatile/sites/4/2021/04/cat-keyboard-ce6b95f.jpg?quality=90&resize=940%2C400)
  
  ```console
  
