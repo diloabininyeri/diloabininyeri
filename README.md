@@ -21,6 +21,15 @@ while($life) $code->run();
 
 usr/bin/locals:~$ git status
 fatal: not a git repository (or any of the parent directories): .git
+
+usr/bin/locals:$ vendor/bin/phpstan analyse  src --level 8
+ 1/1 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+
+
+                                                                                                                        
+ [OK] No errors                                                                                                         
+                                                                                                                        
+
  ```
 
 ###### About 
