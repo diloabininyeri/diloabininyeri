@@ -40,8 +40,6 @@ I have been working as a software developer for 10 years actively, I am original
 
 ## Quick sort & Monkey
 
-Unsorted array
-
 <div style="width:100%;display:flex;place-content: center;flex-direction: column">
 <img src="https://www.tutorialspoint.com/data_structures_algorithms/images/quick_sort_partition_animation.gif" alt=""/>
 
