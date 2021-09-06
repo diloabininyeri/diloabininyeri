@@ -22,6 +22,17 @@ while($life) $code->run();
 usr/bin/locals:~$ git status
 fatal: not a git repository (or any of the parent directories): .git
 
+
+zeus@pop-os:~/PhpstormProjects/untitled2$ vendor/bin/phpstan analyse  src --level 8
+ 1/1 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+
+
+                                                                                                                        
+ [OK] No errors                                                                                                         
+                                                                                                                        
+
+zeus@pop-os:~/PhpstormProjects/untitled2$ 
+
  ```
 
 ###### About 
