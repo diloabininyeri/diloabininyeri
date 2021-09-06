@@ -36,7 +36,8 @@ I have been working as a software developer for 10 years actively, I am original
 [stackoverflow profile](https://stackoverflow.com/users/5582655/d%c4%b1lo-s%c3%bcr%c3%bcc%c3%bc) <br>
 [youtube channel](https://www.youtube.com/c/d%C4%B1los%C3%BCr%C3%BCc%C3%BC/videos)
 
-<!--- ![](https://user-images.githubusercontent.com/438920/84861219-66036b00-b025-11ea-956b-0b5e009e0d78.gif) -->
-![](https://images.immediate.co.uk/production/volatile/sites/4/2021/04/cat-keyboard-ce6b95f.jpg?quality=90&resize=940%2C400)
+
+![](https://user-images.githubusercontent.com/438920/84861219-66036b00-b025-11ea-956b-0b5e009e0d78.gif)
+
 
 
