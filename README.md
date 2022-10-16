@@ -6,12 +6,7 @@
 
 [![stackoverflow](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Stack_Overflow_logo.svg/1280px-Stack_Overflow_logo.svg.png)](https://stackoverflow.com/users/5582655/dılo-sürücü)
 
-img[alt="stackoverflow"] { 
-  max-width:  20px; 
-  display: block;
-}
-
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Stack_Overflow_logo.svg/1280px-Stack_Overflow_logo.svg.png" width="100" height="20">
 
  ```console
  
