@@ -6,7 +6,7 @@
 
 
 <a href="https://stackoverflow.com/users/5582655/dılo-sürücü">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Stack_Overflow_logo.svg/1280px-Stack_Overflow_logo.svg.png" width="200" height="20">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Stack_Overflow_logo.svg/1280px-Stack_Overflow_logo.svg.png" width="150" height="20">
 </a>
 
 
