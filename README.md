@@ -12,7 +12,7 @@
  Dılo sürücü php senior developer
 
  usr/bin/locals:~$ whereis "Dılo sürücü"
- istanbul/Turkey
+ NewYork/America
 
 usr/bin/locals:~$ less "${MAIL:-/var/mail/$USER}" 
  berxudar@gmail.com
